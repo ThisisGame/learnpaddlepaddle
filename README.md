@@ -53,8 +53,17 @@ https://www.paddlepaddle.org.cn/documentation/docs/zh/practices/quick_start/hell
 
 https://www.paddlepaddle.org.cn/documentation/docs/zh/practices/quick_start/linear_regression.html
 
+安装pandas
+
 ```
 python -m pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple/
 ```
+
+下载数据集
+
+```
+https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.data
+```
+
 
 
