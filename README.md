@@ -1,5 +1,7 @@
 # learnpaddlepaddle
 
+<b>确保用管理员打开CMD</b>
+
 1.安装paddlepaddle
 
 https://www.paddlepaddle.org.cn/install/quick?docurl=/documentation/docs/zh/develop/install/pip/windows-pip.html
