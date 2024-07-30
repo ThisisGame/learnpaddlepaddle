@@ -48,3 +48,13 @@ plt.show()
 
 3.出租车价钱线性推理
 https://www.paddlepaddle.org.cn/documentation/docs/zh/practices/quick_start/hello_paddle.html
+
+4.房价预测
+
+https://www.paddlepaddle.org.cn/documentation/docs/zh/practices/quick_start/linear_regression.html
+
+```
+python -m pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple/
+```
+
+
